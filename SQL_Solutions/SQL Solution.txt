@@ -15,4 +15,4 @@ query:   SELECT to_char(hire_date, 'yyyy') as YEAR , COUNT(first_name) as Employ
 
 
 5. WAQ to top 2 earning employee name and salary in each department.
-query:
+query: select  first_name, salary from employees order by salary desc limit 2;

@@ -16,16 +16,26 @@ Qustion 14
 Output:
 B) You cannot specify which thread will get notified
 
+Qustion 15
+Output:
+C)The event listener should cancel the lengthy task if it is not complete in a speciﬁc time
+
 Qustion 16
 Output:
-c)
+C)
 The program does not compile because this cannot be referenced in a static method.
 
 Qustion 17
 Output:
 123112233
 
+Qustion 18
+Output:
+A) Running a Query and Retrieving a ResultSet Object
 
+Qustion 22
+Output:
+A)Only 1 and 3
 
 Qustion 24
 Output:
